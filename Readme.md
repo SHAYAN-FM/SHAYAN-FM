@@ -1,5 +1,5 @@
-![Profile](https://github.com/SHAYAN-FM/SHAYAN-FM/blob/main/i.png)
-
+<img src="https://github.com/SHAYAN-FM/SHAYAN-FM/blob/main/i.png" alt="Profile" width="600" height="600" >
+ 
 # SHAYAN-FM
 
 ---
@@ -48,6 +48,7 @@
 - Simple Telegram Bot
 - Python Programs
 - Simple WebSites
+
 
 
 
