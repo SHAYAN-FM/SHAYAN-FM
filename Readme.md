@@ -1,6 +1,6 @@
 # SHAYAN-FM
 
-## My Skills⬇
+## 💪🏻My Skills⬇
 - PYTHON
 - HTML
 - CSS
@@ -10,7 +10,7 @@
 
 ---
 
-## Currently learning⬇
+## ⚡Currently learning⬇
 - Java Script
 - Data Base
 - Flask
@@ -39,10 +39,10 @@
 - VsCode
 
 ---
-## Things I Can Make⬇
+## ✔Things I Can Make⬇
 - Windows Graphics Programs
 - Simple Telegram Bot
 - Python Programs
-
 - Simple WebSites
+
 
